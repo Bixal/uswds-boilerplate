@@ -48,4 +48,4 @@ Now that you know how to create pages, here are some other things you can do:
 To run the site locally, you'll need to install [Jekyll](https://jekyllrb.com/), which requires a few steps. See the [official installation instructions](https://jekyllrb.com/docs/installation/).
 
 ## Credit and license
-This project was created primarly using the [GitHub Pages gem for Jekyll](https://github.com/github/pages-gem). It is licensed under [The Unlicense](https://github.com/Bixal/uswds-template/blob/main/LICENSE), which allows everything and promises nothing. 😎
+This project was created primarly using the [GitHub Pages gem for Jekyll](https://github.com/github/pages-gem) and a slightly modified [HTML5 Boilerplate](https://github.com/h5bp/html5-boilerplate). It is licensed under [The Unlicense](https://github.com/Bixal/uswds-template/blob/main/LICENSE), which allows everything and promises nothing. 😎
