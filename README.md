@@ -1,5 +1,10 @@
-# Plain Vanilla GitHub Pages README
-The purpose of this project is to make as easy as possible for less-technical people to create and host basic web pages for free on [GitHub Pages](https://pages.github.com/).
+# USWDS Latest Template
+
+This template is set up with USWDS core CSS and JS files from [CDNJS](https://cdnjs.com/libraries/uswds).
+
+- Last updated: April 29, 2021
+- Version: 2.11.1
+- More information: [How to use USWDS](https://designsystem.digital.gov/documentation/developers/)
 
 ## Getting started
 
@@ -33,14 +38,14 @@ Now that you know how to create pages, here are some other things you can do:
 - Create more pages.
 - Update `index.md` (the homepage) with your own content.
 - Add links between pages so it works like a website.
-- Copy component code snippets from the [GitHub Primer design system](https://primer.style/css/components) to add more advanced functionality to your pages.
+- Copy component code snippets from the [U.S. Web Design System](https://designsystem.digital.gov/components/overview/) to add more advanced functionality to your pages.
 
 ## What to do if you're having problems
 - Try starting over with a new repository and follow the instructions again.
-- If it's still not working, [create an issue in the original Plain Vanilla GitHub Pages repo](https://github.com/pglevy/plain-vanilla-gh-pages/issues), and I'll try to help.
+- If it's still not working, [create an issue in the original repo](https://github.com/Bixal/uswds-template), and I'll try to help.
 
 ## Building the running the site locally on your computer (for advanced users)
 To run the site locally, you'll need to install [Jekyll](https://jekyllrb.com/), which requires a few steps. See the [official installation instructions](https://jekyllrb.com/docs/installation/).
 
 ## Credit and license
-This project was created primarly using the [GitHub Pages gem for Jekyll](https://github.com/github/pages-gem) and a slightly modified [HTML5 Boilerplate](https://github.com/h5bp/html5-boilerplate). It is licensed under [The Unlicense](https://github.com/pglevy/plain-vanilla-gh-pages/blob/main/LICENSE), which allows everything and promises nothing. 😎
+This project was created primarly using the [GitHub Pages gem for Jekyll](https://github.com/github/pages-gem). It is licensed under [The Unlicense](https://github.com/Bixal/uswds-template/blob/main/LICENSE), which allows everything and promises nothing. 😎
