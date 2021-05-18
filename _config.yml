@@ -12,3 +12,6 @@ ga: UA-XXXXX-Y
 
 # Avoid GitHub API authentication when building locally. (Not working)
 github: [metadata]
+
+# Enable for live hosting on GitHub Pages
+# baseurl: /repo-name
