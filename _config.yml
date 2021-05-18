@@ -14,4 +14,4 @@ ga: UA-XXXXX-Y
 github: [metadata]
 
 # Enable for live hosting on GitHub Pages
-# baseurl: /repo-name
+baseurl: /uswds-template
