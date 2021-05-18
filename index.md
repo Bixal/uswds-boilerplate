@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Home
 ---
 # USWDS Latest Template
