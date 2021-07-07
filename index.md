@@ -2,7 +2,9 @@
 layout: default
 title: Home
 ---
-# USWDS Latest Template
+# {{ site.title }}
+
+{{ site.description }}
 
 This template is set up with USWDS core CSS and JS files from [CDNJS](https://cdnjs.com/libraries/uswds).
 

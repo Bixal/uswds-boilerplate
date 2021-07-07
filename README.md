@@ -1,4 +1,6 @@
-# USWDS Latest Template
+# USWDS Boilerplate
+
+A starting point for publishing a site using Jekyll, GitHub Pages, and a hosted version of the U.S. Web Design System
 
 This template is set up with USWDS core CSS and JS files from [CDNJS](https://cdnjs.com/libraries/uswds).
 
