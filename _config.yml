@@ -15,3 +15,6 @@ github: [metadata]
 
 # Enable for live hosting on GitHub Pages
 baseurl: /uswds-template
+
+# Remove generation of additional style.css
+theme: null
