@@ -5,6 +5,7 @@ title: Home
 # {{ site.title }}
 
 {{ site.description }}
+{: .usa-intro}
 
 This template is set up with USWDS core CSS and JS files from [CDNJS](https://cdnjs.com/libraries/uswds).
 
