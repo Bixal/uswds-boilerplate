@@ -1,17 +1,23 @@
+### REQUIRED SETTINGS ###
+
 # Set a plain language title for the site.
 title: USWDS Boilerplate
 
 # Write a short description for the site. This is used for "meta description."
 description: A starting point for publishing a site using Jekyll, GitHub Pages, and a hosted version of the U.S. Web Design System
 
+# Enable for live hosting on GitHub Pages
+# This should match the name of your GitHub repository, along with a leading forward slash (/).
+baseurl: /uswds-boilerplate
+
+### RECOMMENDED SETTINGS ###
+
 # Set the language for the site. Used for "html lang." Default is English.
 lang: en
 
-# Avoid GitHub API authentication when building locally. (Not working)
+# Avoid GitHub API authentication when building locally.
+# https://github.com/github/pages-gem/issues/399#issuecomment-301827749
 github: [metadata]
-
-# Enable for live hosting on GitHub Pages
-baseurl: /uswds-boilerplate
 
 # Remove generation of additional style.css
 theme: null
