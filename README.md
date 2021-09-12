@@ -4,9 +4,13 @@ A starting point for publishing a site using Jekyll, GitHub Pages, and a hosted 
 
 This template is set up with USWDS core CSS and JS files from [CDNJS](https://cdnjs.com/libraries/uswds).
 
-- Last updated: July 7, 2021
-- Version: 2.12.0
-- More information: [How to use USWDS](https://designsystem.digital.gov/documentation/developers/)
+- Last updated: September 12, 2021
+- Version: 2.12.1
+- More information: [How to use USWDS](https://designsystem.digital.gov/how-to-use-uswds/)
+
+[Use template on GitHub](https://github.com/Bixal/uswds-boilerplate/generate).
+
+Or [try it out first on CodePen](https://codepen.io/pglevy/pen/abBgJbe).
 
 ## Getting started
 
@@ -31,7 +35,7 @@ This is my first page.
 ### Checking your page online
 1. On the Code tab, find and press the `Environments` link. (It may be in the right column.)
 1. On the next page (Deployments), press the `View deployment` button. (You should see the default homepage load.)
-1. In the address bar of the browser, add the name of your page _using the HTML extension_ and press return. For example: `first-page.html`. (The full address will be something like this: `https://pglevy.github.io/plain-vanilla-gh-pages/first-page.html`)
+1. In the address bar of the browser, add the name of your page _using the HTML extension_ and press return. For example: `first-page.html`. (The full address will be something like this: `https://pglevy.github.io/uswds-boilerplate/first-page.html`)
 
 You should see the new page you created.
 
@@ -50,4 +54,4 @@ Now that you know how to create pages, here are some other things you can do:
 To run the site locally, you'll need to install [Jekyll](https://jekyllrb.com/), which requires a few steps. See the [official installation instructions](https://jekyllrb.com/docs/installation/).
 
 ## Credit and license
-This project was created primarly using the [GitHub Pages gem for Jekyll](https://github.com/github/pages-gem) and a slightly modified [HTML5 Boilerplate](https://github.com/h5bp/html5-boilerplate). It is licensed under [The Unlicense](https://github.com/Bixal/uswds-template/blob/main/LICENSE), which allows everything and promises nothing. 😎
+This project was created primarly using the [GitHub Pages gem for Jekyll](https://github.com/github/pages-gem) and some inspiration from [HTML5 Boilerplate](https://github.com/h5bp/html5-boilerplate). It is licensed under [The Unlicense](https://github.com/Bixal/uswds-template/blob/main/LICENSE), which allows everything and promises nothing. 😎
