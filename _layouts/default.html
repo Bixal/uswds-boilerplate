@@ -1,23 +1,24 @@
 <!doctype html>
-<html class="no-js" lang="{{site.lang}}">
+<html lang="{{site.lang}}">
 
-<head>
-  <meta charset="utf-8">
-  <title>{{ site.title }}</title>
-  <meta name="description" content="{{ site.description }}">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <head>
+    <meta charset="utf-8">
+    <title>{{ site.title }}</title>
+    <meta name="description" content="{{ site.description }}">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/uswds/2.12.1/js/uswds-init.min.js" integrity="sha512-CERRusk3iiaHwELaoxK7Q70UHH6ifSJKSrq3Cfk/TsZooDq7sJYsRCPLdP3YMnTfr3LoeTALPlkpC6g+F6w1Vw==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/uswds/2.12.1/css/uswds.min.css" integrity="sha512-wICx8of+w4Nz/tYsj4B6rYxkrkgOH8zJ7bcyaShiM7jMPtDVZGcMQz7EDaBIqpxu9XGvtR7RKeSj3Zp5pGrISQ==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+  </head>
 
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/uswds/2.12.1/js/uswds-init.min.js" integrity="sha512-CERRusk3iiaHwELaoxK7Q70UHH6ifSJKSrq3Cfk/TsZooDq7sJYsRCPLdP3YMnTfr3LoeTALPlkpC6g+F6w1Vw==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/uswds/2.12.1/css/uswds.min.css" integrity="sha512-wICx8of+w4Nz/tYsj4B6rYxkrkgOH8zJ7bcyaShiM7jMPtDVZGcMQz7EDaBIqpxu9XGvtR7RKeSj3Zp5pGrISQ==" crossorigin="anonymous" referrerpolicy="no-referrer" />
-</head>
-
-<body class="padding-y-3">
-  <main class="grid-container">
-    {{ content }}
-  </main>
+  <body>
+    {% include basic-header.html %}
+    <main id="main-content">
+      <div class="grid-container usa-prose padding-top-3">
+        {{ content }}
+      </div>
+    </main>
+    {% include footer-identifier.html %}
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/uswds/2.12.1/js/uswds.min.js" integrity="sha512-0I5hS86ISi9DRRJgArVIUFaI0fUpdxGppKIc6Dkl3NkdSNLwR2523QvMADILsfE1yK+nKbWuGDx+99+Fop3IgA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+  </body>
   
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/uswds/2.12.1/js/uswds.min.js" integrity="sha512-0I5hS86ISi9DRRJgArVIUFaI0fUpdxGppKIc6Dkl3NkdSNLwR2523QvMADILsfE1yK+nKbWuGDx+99+Fop3IgA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
-
-</body>
-
 </html>
