@@ -9,8 +9,8 @@ title: Home
 
 This template is set up with USWDS core CSS and JS files from [CDNJS](https://cdnjs.com/libraries/uswds).
 
-- Last updated: September 12, 2021
-- Version: 2.12.1
+- Last updated: November 24, 2021
+- Version: 2.12.2
 - More information: [How to use USWDS](https://designsystem.digital.gov/how-to-use-uswds/)
 
 [Use template on GitHub](https://github.com/Bixal/uswds-template){: .usa-button .usa-button--big}

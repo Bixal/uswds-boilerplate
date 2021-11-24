@@ -4,7 +4,7 @@
 title: USWDS Boilerplate
 
 # Write a short description for the site. This is used for "meta description."
-description: A starting point for publishing a site using Jekyll, GitHub Pages, and a hosted version of the U.S. Web Design System
+description: A starting point for rapid web prototyping using a hosted version of the U.S. Web Design System
 
 # Enable for live hosting on GitHub Pages
 # This should match the name of your GitHub repository, along with a leading forward slash (/).
